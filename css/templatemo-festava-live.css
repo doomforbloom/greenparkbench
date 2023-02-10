@@ -761,9 +761,10 @@ strong {
   width: 120px;
   height: 120px;
   position: absolute;
-  top: 2;
+  top: 0;
   right: 0;
   margin: 20px;
+  padding: 5%;
 }
 
 .pricing-tag span {
